@@ -23,4 +23,5 @@ What to do if you do not have a texture pack installed.
 
 ---
 Example of the new interface:
+
 ![image](https://user-images.githubusercontent.com/16172027/201792286-482a8375-0f18-44da-997b-3070eb326a5e.png)
