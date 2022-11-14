@@ -20,3 +20,7 @@ What to do if you do not have a texture pack installed.
 5. Click on the name and enable it by clicking the "Use Texture Pack" button.
 6. Start your MineClone game.
 7. Enjoy! :D
+
+---
+Example of the new interface:
+![image](https://user-images.githubusercontent.com/16172027/201792286-482a8375-0f18-44da-997b-3070eb326a5e.png)
